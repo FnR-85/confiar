@@ -14,7 +14,7 @@
     "lint": "prettier --check \"src/**/*.{js,jsx}\""
   },
   "dependencies": {
-    "@amcharts/amcharts4": "^4.10.22",
+    "@amcharts/amcharts4": "^4.10.39",
     "@popperjs/core": "^2.10.1",
     "axios": "^1.4.0",
     "beautiful-react-hooks": "^0.35.0",
